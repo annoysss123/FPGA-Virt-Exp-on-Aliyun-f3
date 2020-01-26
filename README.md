@@ -9,7 +9,9 @@ Ubuntu 16.04
 Xilinx SDAccel 2018.3
 
 # IP address
-IP address: 101.6.64.180
+IP address: 101.6.64.67
+
+ssh port: 54321
 
 # Login in
 User name: fccm20
